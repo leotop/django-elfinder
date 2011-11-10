@@ -11,7 +11,6 @@ def read_file(filename):
 
 setup(
     name = "django-elfinder",
-    version = __import__('elfinder').get_version().replace(' ', '-'),
     url = '',
     author = 'unkier',
     author_email = '',
