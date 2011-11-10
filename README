@@ -1,0 +1,18 @@
+django-elfinder
+
+Description
+===========
+
+django-elfinder is a elFinder integration with django. elFinder is an open-source file manager for web.
+
+
+Author
+=======
+
+Dmitry Shapoval <dmitry@0fe.ru>
+
+License:
+========
+
+django-elfinder is issued under a LGPL Version 3 license.
+django-elfinder includes parts of elFinder, which is covered by the 3-clauses BSD license.
